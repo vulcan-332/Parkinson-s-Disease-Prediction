@@ -7,6 +7,6 @@ Detecting Parkinon's Disease through smartphone usage, avoiding invasive and exp
 ![Screenshot 2023-11-05 234459](https://github.com/vulcan-332/Parkinson-s-Disease-Prediction/assets/92639453/90e68350-bd28-45e8-882c-1fbd583e3ecc)
 
 
-Work in Progress as of 11 Nov 2023,
+Project Completed as of 15 Dec 2023,
 \\
 Team 49
